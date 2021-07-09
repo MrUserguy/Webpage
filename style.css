@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+    padding-bottom: 2%;
+    
+}
+header{
+    text-align: center;
+    background-color: white;
+    padding: 5%;
+    font-size: 100%;
+    letter-spacing: 1px
+    
+}
+.box img {
+    width: 200px;
+    height: 200px;
+    float: center;
+    padding: 3%;
+
+}
+img {
+    border-radius: 50%;
+}
+#first {
+   background-color: grey; 
+}
+footer {
+    background-color: white;
+}
+#contact-me{
+    background-color: grey;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+button {
+    border-radius: 20px;
+    background-color: beige;
+}
+button:hover{
+    background-color: cyan;
+    
+}

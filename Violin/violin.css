@@ -1,0 +1,21 @@
+header{
+    border: 5px groove lightslategray;
+    padding-top: 3%;
+    border-radius: 10px;
+    text-align: center;
+    background-color: lightsteelblue;
+
+}
+body{
+    background-color: lightskyblue;
+}
+h4{
+    padding-top: 5px;
+    background: white;
+}
+.boxx img {
+    width: 200px;
+    height: 200px;
+    float: center;
+    padding: 3%;
+    border-radius: 50%;}
